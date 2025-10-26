@@ -1,4 +1,4 @@
-# this code is for a simple number guessing game 
+
 
 import random
 
@@ -48,4 +48,5 @@ while True:
         print("Thank you for playing! Goodbye!")
         break
     else:
+
         print("Please answer with 'yes' or 'no'.")
