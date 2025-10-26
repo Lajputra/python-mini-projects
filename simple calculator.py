@@ -1,4 +1,4 @@
-# here i will make a simple calculator and this is my first project in python
+
 
 def add(x,y):
     return x+y
@@ -92,6 +92,5 @@ while True:
         print("Please type 'yes' or 'no'.")
 print("Thank you for using the calculator.")
 
-# this is a simple calculator that can add, subtract, multiply and divide two numbers
-# this is my first python project so the codes may not be very efficient and messy but it works to an extent
-# i will improve it in future projects
+
+
